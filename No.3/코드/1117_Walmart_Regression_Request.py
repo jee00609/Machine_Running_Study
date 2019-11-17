@@ -1,6 +1,5 @@
 import urllib.request
 import json
-
 data = {
         "Inputs": {
                 "input1":
